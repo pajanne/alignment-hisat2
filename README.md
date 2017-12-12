@@ -6,7 +6,7 @@
   ```
   
   ```
-- Before running it you will need to add all HISAT executables onto your path.
+- Before running it you will need to add all HISAT2 executables onto your path.
   ```
   for exec in /home/bioinformatics/software/hisat/hisat2-2.0.4/*; do ln -s $exec ~/bin/.; done
   ```
